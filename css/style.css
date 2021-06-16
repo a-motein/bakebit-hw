@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* First Sec CSS  */
+
+#headerSec{
+    background-color: #F0F2F5;
+    width: auto;
+    margin: auto;
+    outline: none;
+    padding: 140px 0;
+    max-height: fit-content;
+}
+
+
+
+#headerSec .container .row{
+    margin: auto 4%;
+}
+
+#headerSec .container .row img{
+    height: 106px;
+    margin: 40px -28px 0;
+}
+
+#headerSec .container .row h2{
+    font-size: 28px;
+    font-weight: normal !important;
+    line-height: 32px;
+    margin: auto auto 80px;
+}
+
+
+
+#headerSec .container .row .formBox{
+    background-color: #FFFFFF;
+    margin: auto;
+    text-align: center;
+    border: none;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 
+                0 8px 16px rgb(0 0 0 / 10%);
+    width: 82%;
+    border-radius: 8px;
+    padding: 20px 0 5px;
+}
+
+
+#headerSec .container .row .formBox #formInputEmail1,
+#headerSec .container .row .formBox #formInputPassword1{
+    width: 92%;
+    height: 22px;
+    padding: 25px 24px;
+    font-size: 17px;
+    border-radius: 6px;
+}
+
+
+
+#headerSec .container .row .formBox #formInputEmail1[type=text],
+#headerSec .container .row .formBox #formInputPassword1[type=password] {
+    border: 1px solid #dddfe2;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+  }
+
+#headerSec .container .row .formBox #formInputEmail1[type=text]:focus,
+#headerSec .container .row .formBox #formInputPassword1[type=password]:focus {
+    border: 1px solid #0B5ED7;
+  }
+
+
+
+#headerSec .container .row .formBox button{
+    text-decoration: none;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 92%;
+    margin-bottom: 16px;
+}
+
+
+#headerSec .container .row .formBox a{
+    font-size: 14px;
+    text-decoration: none;
+    color: #1877f2;
+    font-weight: 500;
+}
+
+
+#headerSec .container .row .formBox a:hover{
+    text-decoration: underline;
+    color: #1877f2;
+}
+
+
+#headerSec .container .row .formBox hr{
+    width: 92%;
+    margin: 25px auto;
+}
+
+
+#headerSec .container .row .formBox .btn2{
+    border: none;
+    border-radius: 6px;
+    font-size: 18px;
+    line-height: 48px;
+    padding: 0px 16px;
+    background-color: #42b72a;
+    color: #fff;
+    font-weight: 700;
+    width: 52%;
+    transition: 200ms;
+}
+
+
+
+#headerSec .container .row .formBox .btn2:hover{
+    background-color: #36a420;
+}
+
+
+#headerSec .container .row .lastWord{
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    margin: 28px auto 1rem;
+}
+
+#headerSec .container .row .lastWord a{
+    font-size: 14px;
+    font-weight: 600;
+    color: #1c1e21;
+    text-decoration: none;
+}
+
+#headerSec .container .row .lastWord a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
