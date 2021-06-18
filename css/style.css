@@ -175,6 +175,12 @@ body{
     text-decoration: underline;
 }
 
+
+#footerSec .container .d-inline-flex{
+    margin-bottom: -26px;
+}
+
+
 #footerSec .container .d-inline-flex li p{
     margin-top: -18px;
 }
@@ -192,7 +198,6 @@ body{
 #footerSec .container .d-inline-flex li{
     color: #737373;
     font-size: 12px;
-    margin-bottom: -24px;
 }
 
 
@@ -200,7 +205,7 @@ body{
 #footerSec .container hr{
     color: #959ba3;
     width: 80%;
-    margin: 0px 30px;
+    margin: 0px 43px;
 }
 
 
@@ -223,7 +228,7 @@ body{
 #footerSec .container .row .col-md .f2{
     font-size: 11px;
     color: #737373;
-    margin: 30px 0 20px 20px;
+    margin: 30px 0 20px 30px;
 }
 
 
