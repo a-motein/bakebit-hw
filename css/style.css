@@ -192,6 +192,7 @@ body{
 #footerSec .container .d-inline-flex li{
     color: #737373;
     font-size: 12px;
+    margin-bottom: -24px;
 }
 
 
