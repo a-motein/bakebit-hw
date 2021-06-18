@@ -175,6 +175,10 @@ body{
     text-decoration: underline;
 }
 
+#footerSec .container .d-inline-flex li p{
+    margin-top: -18px;
+}
+
 
 #footerSec .container .d-inline-flex li p i{
     color: #4b4f56;
@@ -187,6 +191,7 @@ body{
 
 #footerSec .container .d-inline-flex li{
     color: #737373;
+    font-size: 12px;
 }
 
 
